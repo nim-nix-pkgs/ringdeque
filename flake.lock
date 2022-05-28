@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653690130,
-        "narHash": "sha256-5hl2Ip1YaePIZAHdiiPF0RAR12m7cwmSmDXq7K9cO1k=",
+        "lastModified": 1653696733,
+        "narHash": "sha256-C10hEbGlgRw175G+SS7WGcgpYQrxGECFDhHfySfDdPE=",
         "owner": "nim-nix-pkgs",
         "repo": "ringdeque",
-        "rev": "71303ea2998d470c198aa1534732688f588dc56e",
+        "rev": "7eeb94a087ca04e648c1c26e77bf48b535d2e921",
         "type": "github"
       },
       "original": {
