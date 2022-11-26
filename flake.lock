@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668776094,
-        "narHash": "sha256-1NaV02S804nJvf3l4v35zP3T/Bed4F3yfcwhS2DTXeY=",
+        "lastModified": 1669431348,
+        "narHash": "sha256-xedx5m48ctnLIOFy20nvWYgFPtfVe5bTmUb49OM9LlE=",
         "owner": "nim-nix-pkgs",
         "repo": "ringdeque",
-        "rev": "a597a258410babb853ab328609abbe6cdc1aea67",
+        "rev": "5d739e2df68763a891a6ced055b53aa7245b7be1",
         "type": "github"
       },
       "original": {
